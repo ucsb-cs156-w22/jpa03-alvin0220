@@ -3,8 +3,8 @@
 
 Storybook is here:
 
-- Production:
-- QA:
+- Production: https://ucsb-cs156-w22.github.io/jpa03-alvin0220-docs/storybook
+- QA: https://ucsb-cs156-w22.github.io/jpa03-alvin0220-docs-qa/storybook
 
 The GitHub actions script to deploy the Storybook to QA requires some configuration; see [docs/github-actions.md](docs/github-actions.md) for details.
 
