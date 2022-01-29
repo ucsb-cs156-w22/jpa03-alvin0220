@@ -1,4 +1,5 @@
 # jpa03-alvin0220
+[![codecov](https://codecov.io/gh/ucsb-cs156-w22/jpa03-alvin0220/branch/main/graph/badge.svg?token=FBnQ5oKnLW)](https://codecov.io/gh/ucsb-cs156-w22/jpa03-alvin0220)
 
 Storybook is here:
 
